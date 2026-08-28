@@ -1,6 +1,6 @@
 # My-Projects
 
-This is my project's repository! This will serve as a practice for me, focusing on projects for Python, Java, and C!
+This is my project's repository. This will serve as a practice for me, focusing on projects for Python, Java, and C!
 
 MOOD TRACKER:
 A file will be created with the headers: Date, Time, Mood, Description, and Intensity, and avoids rewriting by breaking into a new line every time, and tells the user if the file already exists in the directory where they're writing this code 
